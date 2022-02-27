@@ -1,4 +1,4 @@
-# `Dfinder console mode`
+# `Dfinder console mode` 👨🏻‍💻🔎
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74627083/155903935-d2e7ad39-ce66-4a32-8869-c3912fd7f677.jpg" />
