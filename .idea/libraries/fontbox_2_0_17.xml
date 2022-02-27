@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="fontbox-2.0.17">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Dfinder/jars/pdf jar/fontbox-2.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Dfinder/jars/pdf jar/org-apache-commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Dfinder/jars/pdf jar/pdfbox-2.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Dfinder/jars/pdf jar/pdfbox-tools-2.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Dfinder/jars/pdf jar/preflight-2.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Dfinder/jars/pdf jar/xmpbox-2.0.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

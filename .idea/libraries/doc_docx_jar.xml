@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="doc docx jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../jars/doc docx jar" />
+      <root url="file://$PROJECT_DIR$/../jars/javaFx jar" />
+      <root url="file://$PROJECT_DIR$/../jars/pdf jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../jars/doc docx jar" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../jars/javaFx jar" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../jars/pdf jar" recursive="false" />
+  </library>
+</component>
