@@ -1,7 +1,7 @@
 # `Dfinder console mode`
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74627083/155903807-857b2072-d109-438f-913b-5d768080160a.jpg" />
+  <img src="https://user-images.githubusercontent.com/74627083/155903935-d2e7ad39-ce66-4a32-8869-c3912fd7f677.jpg" />
 </p>
 
  - `Dfinder` is a local file browser made with `Java`, which searches through files (according to the user's choice) and then generates a txt file containing the search results.
